@@ -1,0 +1,2 @@
+bin/dummy.txt,      36
+bin/subdir_output.txt,      29
